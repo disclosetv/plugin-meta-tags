@@ -1,0 +1,4 @@
+plugins:
+  plugin_meta_tags_enabled:
+    default: false
+    client: true
